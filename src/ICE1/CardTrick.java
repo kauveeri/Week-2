@@ -61,7 +61,7 @@ public class CardTrick {
        System.out.println ("Your card is generated");
        
 
-      System.out.println ("Your card is generated");
+      
   
        // step 3 do change in remote repository. hard coded card details card number =2,hearts to find in array
                         
