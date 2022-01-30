@@ -68,7 +68,7 @@ public class CardTrick {
          
         System.out.println ("My luck card is  " + number + " " + suit );
        
-//  Veerinderjit Kaur  991654376
+/** Veerinderjit Kaur  991654376*/
       // comment 
   
        // step 3 do change in remote repository. hard coded card details card number =2,hearts to find in array
