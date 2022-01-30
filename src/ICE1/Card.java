@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cardtrick;
+package ICE1;
+
+import java.util.Random;
 
 /**
  *
@@ -13,10 +15,14 @@ public class Card {
     
     private int numbers;
     private String suit;
-static final String[] SUITS ={"diamonds","spades","clubs","hearts"};
-    /**
+private static final String[] SUITS ={"diamonds","spades","clubs","hearts"};
+
+    /**   
      * @return the numbers
      */
+
+
+
     public int getNumbers() {
         return numbers;
     }
@@ -41,5 +47,10 @@ static final String[] SUITS ={"diamonds","spades","clubs","hearts"};
     public void setSuit(String suit) {
         this.suit = suit;
     }
+
+   
+
+ }
+
+
     
-}
