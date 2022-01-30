@@ -28,8 +28,9 @@ public class CardTrick {
     public static void main(String[] args) {
           Scanner input = new Scanner (System.in);    
       Card[] magicHand = new Card[7];//Array of object 
-            
-              
+            Card()luckycard = new Card ();
+              int number =2;
+        String suit = "clubs";
                        
                  for (int i=0 ; i<magicHand.length ; i++)
       {
