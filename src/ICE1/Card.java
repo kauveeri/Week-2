@@ -11,6 +11,8 @@ import java.util.Random;
  *
  * @author Jassu01
  */
+
+// Veerinderjit Kaur  991654376
 public class Card {
     
     private int numbers;
